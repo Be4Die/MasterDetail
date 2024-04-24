@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "E:\\University\\MasterDetail\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|e:\\university\\masterdetail\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|e:\\university\\masterdetail\\masterdetailview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|solutionrelative:masterdetailview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|E:\\University\\MasterDetail\\concerthalleditview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|solutionrelative:concerthalleditview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|E:\\University\\MasterDetail\\ticketeditview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|solutionrelative:ticketeditview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|e:\\university\\masterdetail\\masterdetailview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|solutionrelative:masterdetailview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|e:\\university\\masterdetail\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|solutionrelative:appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|e:\\university\\masterdetail\\concerthallmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|solutionrelative:concerthallmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|e:\\university\\masterdetail\\ticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|solutionrelative:ticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|e:\\university\\masterdetail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|e:\\university\\masterdetail\\concerthalleditview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|solutionrelative:concerthalleditview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|e:\\university\\masterdetail\\ticketeditview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD7C94E-EDA9-4B69-8888-FA6A5FF0319D}|MasterDetail.csproj|solutionrelative:ticketeditview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +50,126 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\University\\MasterDetail\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\University\\MasterDetail\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "TicketEditView.cs [Design]",
+              "DocumentMoniker": "E:\\University\\MasterDetail\\TicketEditView.cs",
+              "RelativeDocumentMoniker": "TicketEditView.cs",
+              "ToolTip": "E:\\University\\MasterDetail\\TicketEditView.cs [Design]",
+              "RelativeToolTip": "TicketEditView.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T15:33:22.214Z",
+              "WhenOpened": "2024-04-24T01:02:05.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcertHallEditView.cs [Design]",
+              "DocumentMoniker": "E:\\University\\MasterDetail\\ConcertHallEditView.cs",
+              "RelativeDocumentMoniker": "ConcertHallEditView.cs",
+              "ToolTip": "E:\\University\\MasterDetail\\ConcertHallEditView.cs [Design]",
+              "RelativeToolTip": "ConcertHallEditView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:58:43.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConcertHallModel.cs",
+              "DocumentMoniker": "E:\\University\\MasterDetail\\ConcertHallModel.cs",
+              "RelativeDocumentMoniker": "ConcertHallModel.cs",
+              "ToolTip": "E:\\University\\MasterDetail\\ConcertHallModel.cs",
+              "RelativeToolTip": "ConcertHallModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:00:08.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterDetailView.cs",
+              "DocumentMoniker": "E:\\University\\MasterDetail\\MasterDetailView.cs",
+              "RelativeDocumentMoniker": "MasterDetailView.cs",
+              "ToolTip": "E:\\University\\MasterDetail\\MasterDetailView.cs",
+              "RelativeToolTip": "MasterDetailView.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAywIoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:49:55.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "E:\\University\\MasterDetail\\AppContext.cs",
+              "RelativeDocumentMoniker": "AppContext.cs",
+              "ToolTip": "E:\\University\\MasterDetail\\AppContext.cs",
+              "RelativeToolTip": "AppContext.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwCEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:59:33.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MasterDetailView.cs [Design]",
+              "DocumentMoniker": "E:\\University\\MasterDetail\\MasterDetailView.cs",
+              "RelativeDocumentMoniker": "MasterDetailView.cs",
+              "ToolTip": "E:\\University\\MasterDetail\\MasterDetailView.cs [Design]",
+              "RelativeToolTip": "MasterDetailView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:18:46.196Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\University\\MasterDetail\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\University\\MasterDetail\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:01:25.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketModel.cs",
+              "DocumentMoniker": "E:\\University\\MasterDetail\\TicketModel.cs",
+              "RelativeDocumentMoniker": "TicketModel.cs",
+              "ToolTip": "E:\\University\\MasterDetail\\TicketModel.cs",
+              "RelativeToolTip": "TicketModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:23:28.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConcertHallEditView.cs",
+              "DocumentMoniker": "E:\\University\\MasterDetail\\ConcertHallEditView.cs",
+              "RelativeDocumentMoniker": "ConcertHallEditView.cs",
+              "ToolTip": "E:\\University\\MasterDetail\\ConcertHallEditView.cs",
+              "RelativeToolTip": "ConcertHallEditView.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvxwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:56:13.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketEditView.cs",
+              "DocumentMoniker": "E:\\University\\MasterDetail\\TicketEditView.cs",
+              "RelativeDocumentMoniker": "TicketEditView.cs",
+              "ToolTip": "E:\\University\\MasterDetail\\TicketEditView.cs",
+              "RelativeToolTip": "TicketEditView.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:43:00.452Z"
             }
           ]
         }
